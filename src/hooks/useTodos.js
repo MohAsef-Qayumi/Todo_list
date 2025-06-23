@@ -9,7 +9,7 @@ export function useTodos() {
   const [todos, setTodos] = useState([]);
   const [loading, setLoading] = useState(true);
   const useSupabase = isSupabaseConfigured();
- 
+  
   // Local storage functions
   const getLocalTodos = () => {
     try {
