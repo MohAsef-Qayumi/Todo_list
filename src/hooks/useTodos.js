@@ -58,7 +58,7 @@ export function useTodos() {
   const addTodo = async (title, description, priority = "medium", due_date) => {
     try {
       const newTodo = {
-        id: generateId(),
+        id: generateId(), 
         title,
         description,
         priority,
