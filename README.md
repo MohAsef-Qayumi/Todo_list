@@ -64,13 +64,13 @@ Create a .env file in the root directory:
     ```
 
 
-#🛠️ Usage
+## 🛠️ Usage
 - Add new todos using the input field
 - Click on a todo to toggle completion status
 - Edit and delete tasks seamlessly with real-time backend sync
 - Experience smooth UI interactions and error messages where necessary
 
-#💡 Highlights
+## 💡 Highlights
 - Leveraged Supabase as a backend-as-a-service for rapid prototyping and production-ready database management
 
 - Integrated ESLint to maintain clean and consistent code style across the project
@@ -83,7 +83,7 @@ Create a .env file in the root directory:
 Contributions, issues, and feature requests are welcome!
 Feel free to check issues page.
 
-🙏 Acknowledgments
+# 🙏 Acknowledgments
 - React
 
 - Tailwind CSS
